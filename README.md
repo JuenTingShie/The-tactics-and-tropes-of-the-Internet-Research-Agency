@@ -5,6 +5,9 @@ image: https://i.imgur.com/LXXPaBN.jpg
 
 # 【中國政府如何利用假消息影響台灣選舉？】
 
+by repo owner:This paper is clone from [HackMD](https://hackmd.io/s/HyJL31IOE) at 2019/05/20
+---
+
 「你也收到假消息了嗎？」去年（2018年）縣市大選後，各界分析台灣選舉結果，與中國政府以網軍組織性攻擊台灣網路社群有關，再加上媒體擴散，假消息流竄。我們日常使用的Line與Facebook有社群的封閉性，即使政府機關發出政策說明，也不易澄清，讓許多民眾對民進黨政府的不滿在2018大選一次反撲。
 
 3/16立委補選這天，我們邀請Puma沈伯洋（台北大學犯罪學研究所助理敎授）到彰化與大家分享：面對中國政府系統性的入侵，我們該怎麼面對？而中國政府又如何利用假消息影響台灣大選？講座免費入場，邀請關心台灣發展的你作伙來聽！
@@ -24,7 +27,7 @@ image: https://i.imgur.com/LXXPaBN.jpg
 ![](https://i.imgur.com/LXXPaBN.jpg)
 
 完整影片：
-{%youtube iPlzj4yfTj4 %}
+[https://www.youtube.com/watch?v=7FHgoNgU4d0&feature=youtu.be](https://www.youtube.com/watch?v=7FHgoNgU4d0&feature=youtu.be)
 
 網友整理簡短摘要版：
 1. https://hackmd.io/s/HkXFHR7YN
